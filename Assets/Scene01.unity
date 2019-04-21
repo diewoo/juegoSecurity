@@ -684,7 +684,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Situacion 01
+  m_Text: "Situaci\xF3n 01"
 --- !u!222 &1200404749
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -905,7 +905,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu
+  m_Text: "Men\xFA"
 --- !u!222 &1588308987
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1704,7 +1704,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El area de Sistemas  al asignarte  tu nueva laptop , te entrega un papelito
+  m_Text: "El \xE1rea de Sistemas  al asignarte  tu nueva laptop , te entrega un documento
     con tu usuario y contrase\xF1a de acceso.\r\nAnte esto que harias?"
 --- !u!222 &2096978585
 CanvasRenderer:

@@ -437,9 +437,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mientras sigues haciendo tu lista de pendientes , te sale una notificacion
-    en la computadora que te dice que el antivirus "segurinorton" necesita actualizarse
-    pero se demorara alrededor de una hora.
+  m_Text: "Mientras sigues haciendo tu lista de pendientes , te sale una notificaci\xF3n
+    en la computadora que te dice que el antivirus \"segurinorton\" necesita actualizarse
+    pero se demorar\xE1 alrededor de una hora."
 --- !u!222 &186643281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1572,7 +1572,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu
+  m_Text: "Men\xFA"
 --- !u!222 &2087456247
 CanvasRenderer:
   m_ObjectHideFlags: 0

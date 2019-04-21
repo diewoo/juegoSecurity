@@ -684,7 +684,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Situacion 02
+  m_Text: "Situaci\xF3n 02"
 --- !u!222 &1200404749
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -905,7 +905,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu
+  m_Text: "Men\xFA"
 --- !u!222 &1588308987
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1557,7 +1557,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Le das abrir sin verfiicar el remitente.
+  m_Text: Le das abrir sin verificar el remitente.
 --- !u!222 &2022101910
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1631,9 +1631,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Comienzas a chequear  tu bandeja de correo para ver tus  tareas asignadas
-    por tu jefe y vez que tienes un correo que dice "bienvenido a segurilandia-not.pe".Ante
-    esto que harias.
+  m_Text: "Comienzas a chequear  tu bandeja de correo para ver tus  tareas asignadas
+    por tu jefe y vez que tienes un correo que dice \"bienvenido a segurilandia-not.pe\".Ante
+    esto que har\xEDas."
 --- !u!222 &2096978585
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -1069,9 +1069,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Luego regresas de comer tu rico pollo con papitas y te acuerdas que tenias
-    una presentacion de induccion con tu jefe en la sala seguricityspace, durante
-    la reunion se exponen diferentes topics  en la pizarra , al finalizar:'
+  m_Text: "Luego regresas de comer tu rico pollo con papitas y te acuerdas que tenias
+    una presentacion de inducci\xF3n con tu jefe en la sala seguricityspace, durante
+    la reuni\xF3n se exponen diferentes topics  en la pizarra ,al finalizar:"
 --- !u!222 &1582787389
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1448,7 +1448,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Irte rapido sin hacer nada  a tu casa
+  m_Text: "Irte r\xE1pido sin hacer nada  a tu casa"
 --- !u!222 &1914484905
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1644,7 +1644,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu
+  m_Text: "Men\xFA"
 --- !u!222 &2020149638
 CanvasRenderer:
   m_ObjectHideFlags: 0
